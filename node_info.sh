@@ -6,7 +6,7 @@ node_dir="$HOME/.deweb/"
 wallet_name="$deweb_wallet_name"
 wallet_address="$deweb_wallet_address"
 wallet_address_variable="deweb_wallet_address"
-global_rpc="http://161.97.111.217:26657"
+global_rpc="http://161.97.111.217:26657/"
 explorer_url_template="https://explore.deweb.services/deweb/staking/"
 
 # Default variables
